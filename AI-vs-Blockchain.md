@@ -30,5 +30,5 @@
 
   ![blockchain_imag](https://github.com/user-attachments/assets/d2019b01-c790-4989-94dd-096c48768b17)
 
-<h6>In real world, cryptocurrencies like Bitcoin and Ethereum are most popular use case of Blockchain, but it’s used for much more. It’s like a digital notepad that everyone trusts and no one controls alone.</h6>
+<h6>In real world, cryptocurrencies like Bitcoin and Ethereum are most popular use case of Blockchain, but it’s used for much more. It’s like a digital notepad that everyone trusts and no one controls alone</h6>
 
